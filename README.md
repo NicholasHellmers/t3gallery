@@ -2,8 +2,8 @@
 
 ## TODO
 
-- [ ] Make it deploy
-- [ ] Scaffold basic ui with moch data
+- [x] Make it deploy
+- [x] Scaffold basic ui with moch data
 - [ ] Actually set up a database (w/ vercel postgress)
 - [ ] Attach database to UI
 - [ ] Add authentication (w/ clerk)
